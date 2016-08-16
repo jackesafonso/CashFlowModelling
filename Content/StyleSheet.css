@@ -1,0 +1,50 @@
+﻿
+body {
+    margin-top: 10px;
+    background-color: #DCDDD8;
+    font-family: 'Philosopher', sans-serif;
+    color: black; /*#fff;*/
+    background-image: url(Offshore_platform.jpg);
+    font-family: 'Times New Roman', Times, serif
+}
+
+.content {
+    /*background-color: rgba(160, 32, 240, 0.1);*/
+    background-color: none; /*#555;*/
+    font-size: 18px;
+    color: black /*#fff;*/
+}
+
+.heading {
+    background: none; /*#555;*/
+    color: #000000;
+}
+
+.txtBox{
+    display:inline;
+}
+
+.btn-primary {
+    background-color: #D74B4B;
+}
+
+.btn-primary:hover {
+    background-color: #fff;
+    color: #354B5E;
+}
+
+#A
+{
+    color: white;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
